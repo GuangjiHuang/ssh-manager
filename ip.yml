@@ -1,0 +1,45 @@
+# ------------------------------ MYSELF ------------------------------
+ysq:
+  user: [ysq, root]
+  ip: 202.38.214.122
+
+hgj_dp:
+  user: hgj
+  ip: 0
+
+hgj_lab:
+  user: gjsq
+  ip: 202.38.214.68
+
+hgj_lab_:
+  user: unknown
+  ip: 0
+
+hgj_ali:
+  user: root
+  ip: 120.79.225.239
+
+# ------------------------------ SERVER ------------------------------
+3080:
+  user: scut
+  ip: 202.38.214.117
+
+2080:
+  user: scut
+  ip: 202.38.214.111
+
+1080:
+  user: scut214
+  ip: 218.192.172.109
+
+M5000:
+  user: [scut, root]
+  ip: 202.38.214.222
+
+tx2:
+  user: scut
+  ip: 0
+
+xavier:
+  user: scut
+  ip: 0
